@@ -1,6 +1,6 @@
 # Install all my  tools
 # my all tools in one script 
-<img src="proof.jpg">
+<img src="proof1.jpg">
 
 cd tools 
 
