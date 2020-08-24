@@ -10,7 +10,7 @@ def jalan(z):
 os.system('clear')
 time.sleep(0.1)
 print "\033[1;35m"
-os.system('figlet Install Tools Hydra ')
+os.system('figlet Install Tools Hydra NET ')
 jalan("\033[1;33m="* 53)
 time.sleep(1)
 print "\033[1;31mYoutube  :"  "\033[1;32mHydra NET "
