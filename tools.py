@@ -34,9 +34,11 @@ print "\033[1;32m[4] " "\033[1;32mInstall" " "   "\033[1;31mall Pkg Tremux"
 time.sleep(0.2)
 print "\033[1;32m[5] " "\033[1;32mInstall" " "   "\033[1;31mMetasploirt Automatically "
 time.sleep(0.2)
-print "\033[1;32m[6] " "\033[1;32mMy Channel In  \033[1;31mYoutube "
+print "\033[1;32m[6] " "\033[1;31m Update"
 time.sleep(0.2)
-print "\033[1;32m[7] " "\033[1;32mMy account In \033[1;31mInstagram "
+print "\033[1;32m[7] " "\033[1;32mMy Channel In  \033[1;31mYoutube "
+time.sleep(0.2)
+print "\033[1;32m[8] " "\033[1;32mMy account In \033[1;31mInstagram "
 time.sleep(0.2)
 print "\033[1;32m[x]\033[1;31m Exit" 
 time.sleep (0.2)
@@ -94,9 +96,17 @@ elif choose == "5":
     os.system ('python2 tools.py')
 
 elif choose == "6":
+	os.system('git pull origin master')
+	print ("\033[1;32mSuccessfully updated")
+	time.sleep (2)
+	os.system ('python2 tools.py')
+	
+elif choose == "7":
     os.system('xdg-open https://www.youtube.com/c/hydranet2')
     os.system ('python2 tools.py')
-elif choose == "7":
+	
+	
+elif choose == "8":
     os.system('xdg-open https://www.instagram.com/hydranet2020')
     os.system ('python2 tools.py')
     
