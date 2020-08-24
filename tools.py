@@ -13,9 +13,7 @@ print "\033[1;35m"
 os.system('figlet Install Tools Hydra NET')
 jalan("\033[1;33m="* 53)
 time.sleep(1)
-print "\033[1;31mAuthor   :"  "\033[1;32mHydra NET"
 print "\033[1;31mYoutube  :"  "\033[1;32mHydra NET "
-print "\033[1;31mGithub   :" "\033[1;32mhydra20"
 print "\033[1;31mInstagram:""\033[1;32mhydranet2020"
 jalan ("\033[1;33m="* 53)
 time.sleep(1)
