@@ -34,7 +34,7 @@ print "\033[1;32m[4] " "\033[1;32mInstall" " "   "\033[1;31mall Pkg Tremux"
 time.sleep(0.2)
 print "\033[1;32m[5] " "\033[1;32mInstall" " "   "\033[1;31mMetasploirt Automatically "
 time.sleep(0.2)
-print "\033[1;32m[6] " "\033[1;31m Update"
+print "\033[1;32m[6] " "\033[1;32m"Update "      "\033[1;31mmy tool"
 time.sleep(0.2)
 print "\033[1;32m[7] " "\033[1;32mMy Channel In  \033[1;31mYoutube "
 time.sleep(0.2)
