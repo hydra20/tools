@@ -38,7 +38,7 @@ print "\033[1;32m[7] " "\033[1;32mMy Channel In  \033[1;31mYoutube "
 time.sleep(0.2)
 print "\033[1;32m[8] " "\033[1;32mMy account In \033[1;31mInstagram "
 time.sleep(0.2)
-print "\033[1;32m[xx]\033[1;31m Exit" 
+print "\033[1;32m[x]\033[1;31m Exit" 
 time.sleep (0.2)
 choose = raw_input('\033[1;33m[?] choose : ')
 
