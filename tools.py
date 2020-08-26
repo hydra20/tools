@@ -94,7 +94,7 @@ elif choose == "5":
     os.system ('python2 tools.py')
 
 elif choose == "6":
-	os.system('git clone')
+	os.system('git bush origin master')
 	print ("\033[1;32mSuccessfully updated")
 	time.sleep (2)
 	os.system ('python2 tools.py')
